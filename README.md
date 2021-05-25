@@ -1,4 +1,4 @@
-# tailwindcss-react.js-doc
+# Tailwindcss-react.js-doc
 steps to add tailwindcss in react.js project.
 
   ## Creating your project:
