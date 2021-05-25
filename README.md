@@ -123,4 +123,10 @@ Finally, ensure your CSS file is being imported in your ./src/index.js file:
 
         // ...
         
+    
+ ## For production deploy 
+     
+   use this command to compile tailwind css and build project.
+        
+        npx tailwindcss build src/tailwind.css -o src/index.css && yarn build
         
