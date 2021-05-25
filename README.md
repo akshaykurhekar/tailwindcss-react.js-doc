@@ -90,7 +90,7 @@ steps to add tailwindcss in react.js project.
       }
     
     
-   ## Include Tailwind in your CSS
+   ## Include Tailwind in your CSS file
    
    Open the ./src/index.css file that Create React App generates for you by default and use the @tailwind directive to include Tailwind’s base, components, and utilities styles, replacing the original file contents:
    
